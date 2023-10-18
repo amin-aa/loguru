@@ -506,3 +506,7 @@ Documentation
 * `Contributing <https://loguru.readthedocs.io/en/stable/project/contributing.html>`_
 * `License <https://loguru.readthedocs.io/en/stable/project/license.html>`_
 * `Changelog <https://loguru.readthedocs.io/en/stable/project/changelog.html>`_
+
+TO DO
+------------
+* snp loger
